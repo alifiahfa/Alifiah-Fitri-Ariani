@@ -20,7 +20,7 @@ main {
     padding: 20px;
 }
 
-.bio, .projects, .contact {
+.about-me, .bio, .projects, .contact {
     background: white;
     margin: 20px 0;
     padding: 20px;
